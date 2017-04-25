@@ -1,0 +1,60 @@
+
+			body.homepage {background-color:#003791;
+							 color:#ffffff;
+			background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PlayStation_logo.svg/220px-PlayStation_logo.svg.png")}
+
+#SQio{
+	color:#ffffff
+}
+
+.psi{
+	color:#00ff80;
+	width:50%;
+	border:2px ridge #80dfff;
+	float:left;
+	box-sizing:border-box;
+	background:url("http://images5.fanpop.com/image/photos/30700000/Jak-and-Daxter-HD-Collection-jak-and-daxter-30733243-2560-1506.png");
+	background-size: 174px 71px;
+	height:500px
+}
+h2{ text-align:center
+}
+.psj{
+	color:#00ff80;
+	width:50%;
+	border:2px ridge #80dfff;
+	float:right;
+	box-sizing:border-box;
+	background:url("https://cdn.shopify.com/s/files/1/0267/4223/products/turtle-BORDER_800x.jpg?v=1476715782");
+	background-size: 80px 71px;
+	height: 500px
+}
+.clear{
+	clear:both;
+}
+.SZ{
+	width:50%;
+	Border:2px ridge #ffffff;
+	float:right;
+	box-sizing:border-box;
+	background-size: 80px 71px;
+	height: 500px
+}
+.SZT{
+	width:50%;
+	Border:2px ridge #ffffff;
+	float:right;
+	box-sizing:border-box;
+	background-size: 80px 71px;
+	height: 500px
+	
+	
+	
+}
+
+
+
+
+
+
+
