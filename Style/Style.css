@@ -1,209 +1,128 @@
-			body.homepage {background-color:#003791;
-							 color:#ffffff;
-			background-image:url("https://s-media-cache-ak0.pinimg.com/originals/24/eb/9e/24eb9e54cc14247cde7b6e6b91bd0eed.jpg")}
-			body.TB {background-color:#FFFFFF;
-							color:#FFFFFF;
-			background-image:url("https://s-media-cache-ak0.pinimg.com/originals/b2/59/c3/b259c3f17a021d1eb51f7069ef0dbe97.jpg")}
-			body.ONET {background-color:#FFFFFF;
-							color:#FFFFFF;
-			background-image:url("https://dailyanimeart.files.wordpress.com/2012/09/go_to_sleep__child____by_katakiari-d5fuz4u.jpg")}		
-#SQio{
-	color:#ffffff
-}
-.psi{
-	color:#00ff80;
-	width:50%;
-	border:2px ridge #80dfff;
-	float:left;
-	box-sizing:border-box;
-	background:url("https://i.ytimg.com/vi/MnEowkdFBLM/maxresdefault.jpg");
-	background-size: 100% 100%;
-	height:500px
-}
-h2{ text-align:center
-}
-.psj{
-	color:#00ff80;
-	width:50%;
-	border:2px ridge #80dfff;
-	float:right;
-	box-sizing:border-box;
-	background:url("https://i.ytimg.com/vi/xj5rKJGKtxM/maxresdefault.jpg");
-	background-size: 100% 100%;
-	height: 500px
-}
-.clear{
-	clear:both;
-}
-.SZ{
-	width:50%;
-	Border:2px ridge #ffffff;
-	float:right;
-	box-sizing:border-box;
-	background-size: 80px 71px;
-	height: 500px
-}
-.SZT{
-	width:50%;
-	Border:2px ridge #ffffff;
-	float:right;
-	box-sizing:border-box;
-	background-size: 80px 71px;
-	height: 500px
-}
-.elements{
-	/* create elements topics */
-}
-.Container{
-	Width:100%;
-	Display:inline-block;
-}
-.CIR{
-	width:30%;
-	Border:2px ridge #00000000;
-	float: right;
-	box-sizing:border-box;
-	background-size: ;
-	height: 100%;
-	Display:inline-block;
-	padding-right: 0px;
-	padding-left: 0px;
-}
-.CI{
-	
-	width:30%;
-	Border:2px ridge #00000000;
-	float: left; 
-	box-sizing:border-box;
-	background-size: ;
-	height: 100%;
-	Display:inline-block;
-	padding: 0;
-	padding-right: 0px;
-	padding-left: 0px;
-}
-.CIC{
-	width:40%;
-	Border:2px ridge #00000000;
-	float: left; 
-	box-sizing:border-box;
-	background-size: ;
-	height: 97%;
-	Display:inline-block;
-	padding-left: 5px;
-	padding-right: 5px;
-}
 
-.CIR img, .CI img{
-	height: 148px;
-	width: 100%;
-}
-.CIC img{
-	Height: 97%;
-	width: 100%;
-}
-ul.Remove {
-	list-style-type: none;
-    margin: 0;
-    padding-right: 0px;
-	padding-left: 0px;
-	width:100%;
-}
-.TBH ul li {
-	display: inline;
-	list-style-type: none;
-    margin: 0px 0px;
-    padding-right: 0px;
-	padding-left: 0px;
-/*(Check)border: 2px solid blue */
-}
-.TBH ul {
-	margin: 0px ;
-	padding: 0px ;
-/*(Check)border: 2px solid red ;
-	display: inline-block ; */
-	
-}
-.ONET {
-	background:url("");
+
+body.homepage {
+	background:url("https://s3.amazonaws.com/user-media.venngage.com/981469-e2b6629f26488238c53dc52ecea2a642.jpg");
 	background-repeat: no-repeat;
 	Display: inline-block;
 	background-size: 100% 100% ;
 }
-.OTI {
-	border: 2px solid white;
-	Width: 20% ;
-	Height: 100% ;
-	float: right ;
-	margin: 30px ;
+body.sol{
+	background:url("https://i.ytimg.com/vi/JR0attPUJtw/maxresdefault.jpg");
+	background-repeat: no-repeat ;
+	background-size: 100% 100% ;
+}
+body.rocketry{
+	background:url("http://www.hotszots.eu/_galler/IMG/SPACE/nasa_rocket-1920x1080.jpg");
+	display: inline-block ;
+	background-repeat: no-repeat ;
+	background-size: 100% 100% ;
+}
+body.human{
+	background:url("https://s3.amazonaws.com/kajabi-neo-production/courses/5341/lessons/54614/custom_thumbnails/45b94a4b-582b-454a-b897-83137114663c_medium.jpg") ;
+	background-repeat: no-repeat ;
+	background-size: 100% 100% ;
+}
+body.space{
+	background:url("https://www.nasa.gov/sites/default/files/thumbnails/image/p1639ay-goodss-160930.jpg") ;
+	background-repeat: no-repeat ;
+	background-size: 100% 100% ;
+}
+body.earth{
+	background:url("")
+	background-repeat: no-repeat ;
+	background-size: 100% 100% ;
 }
 .btn {
 	color: #ffffff ;
 	cursor: pointer ;
-	display: Block ;
-	margin: 0 auto 2em ;
-	max-width: 160px ;
+	display: inline-block;
+	margin: 10 auto 2em ;
+	padding: 9px ;
+	max-width: 100px ;
 	text-decoration: none ;
 	text-transform: uppercase ;
 	vertical-align: middle ;
+	float: left ;
 	width: 100% ;
 	position: relative ;
-	
-	
-	background: #E1332D ;
+	background: #8B008B ;
 	transition: all 150ms liner ;
-	
+	text-align: center;
 }
+
 .btn:hover{
 	background-color: #324b ;
-
-
 }
 
-
-
-/* END */
-/* Dropdown Button */
-.dropbtn {
-    background-color: #4CAF50;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
+.btn ul {
+  	margin: 0px ;
+	padding: 0px ;
+	border: 2px solid red ;
+	display: inline-block ;
 }
 
-/* Dropdown button on hover & focus */
-.dropbtn:hover, .dropbtn:focus {
-    background-color: #3e8e41;
+.bx {
+	width:180px;
+	border:2px ridge #324b;
+	float:left;
+	box-sizing:border-box;
+	background-size: 100% 100%;
+	height:470px ;
+	position: relative ;
+	
 }
 
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-    position: relative;
-    display: inline-block;
+.vid{
+	position: relative ;
+	float: left ;
+	
+	
+}
+.btnb {
+	color: #ffffff ;
+	cursor: pointer ;
+	display: inline-block;
+	margin: 10 auto 2em ;
+	padding: 9px ;
+	max-width: 100px ;
+	text-decoration: none ;
+	text-transform: uppercase ;
+	vertical-align: middle ;
+	float: right ;
+	width: 100% ;
+	position: relative ;
+	background: #8B008B ;
+	transition: all 150ms liner ;
+	text-align: center ;
 }
 
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
+.btnb:hover{
+	background-color: #324b ;
 }
 
-/* Links inside the dropdown */
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
+.btnb ul {
+  	margin: 0px ;
+	padding: 0px ;
+	border: 2px solid red ;
+	display: inline-block ;
 }
 
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #f1f1f1}
-
-/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
-.show {display:block;}
+.bxb {
+	width:180px;
+	border:2px ridge #324b;
+	float:right;
+	box-sizing:border-box;
+	background-size: 100% 100%;
+	height:470px ;
+	position: relative ;
+	
+}
+.header{
+	width:100% ;
+	border:2px ridge white;
+	box-sizing:border-box;
+	background-image:url("http://orig09.deviantart.net/8ff4/f/2007/084/e/5/space_banner_by_halochick4ever.jpg") ;
+	height:110x;
+	color: #3f66ff ;
+	
+}

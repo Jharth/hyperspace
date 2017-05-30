@@ -1,3 +1,3 @@
 # hyperspace
-this is important
-Only King Turtle
+
+Space... The final frontier!

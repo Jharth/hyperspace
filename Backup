@@ -1,0 +1,400 @@
+Sometimes the space between knowing what to do and actually doing it is a very short walk. Other times it is an impossible expanse - david lievithan
+The expanse of space becomes a literal analogue to the open seas. If space is tomorrow's ocean, then Earth's surface is its shoreline -neil degrass tyson
+the mind is beautiful thing. An invisible universie all to yourself
+We made it all this way, so far out into the darkness. Why couldn't we have brought more light?
+I stopped looking for light, decided to become it instead.
+
+Index: 
+	
+  <!--  <body class="homepage">
+		<h1>Legends of the Ninja World</h1>
+    <p id="SQio">
+		<!--comment is here brooooooo
+		Naruto Shippuden -->
+    </p>
+		<!-- <li></li> is bullet points | <ol></ol> is Numbered -->
+<!--	<ol>
+	</ol>
+		<!-- <a href="url">Title</a> is link to page -->
+<!--		<div class="psi">
+			<h2>
+			<a href="Stongest.html" style="color:#cc0000">
+			Space Is Cool
+				</a>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/jItnCGRsMjw" frameborder="0" allowfullscreen></iframe>
+			</h2>
+		</div>
+		<div class="psj">
+			<h2>
+				<a href="TailedBeasts.html" style="color:#cc0000">
+				Tailed Beasts</a>
+			</h2>
+		</div>
+		<div class="clear">
+			<ul>
+			<li>Water</li>
+			<li>Earth</li>
+			<li>Fire</li>
+			<li>Air</li>
+			<li>Lightning</li>
+			<!-- Create Elements Page below main topic -->
+	<!--		</ul>
+		</div>
+		<div class="elements">
+		</div>
+    </body>
+	<!-- END 
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+	<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+</html> -->
+
+
+
+
+Style:
+			body.homepage {background-color:#003791;
+							 color:#ffffff;
+			background-image:url("https://s-media-cache-ak0.pinimg.com/originals/24/eb/9e/24eb9e54cc14247cde7b6e6b91bd0eed.jpg")}
+			body.TB {background-color:#FFFFFF;
+							color:#FFFFFF;
+			background-image:url("https://s-media-cache-ak0.pinimg.com/originals/b2/59/c3/b259c3f17a021d1eb51f7069ef0dbe97.jpg")}
+			body.ONET {background-color:#FFFFFF;
+							color:#FFFFFF;
+			background-image:url("https://dailyanimeart.files.wordpress.com/2012/09/go_to_sleep__child____by_katakiari-d5fuz4u.jpg")}		
+#SQio{
+	color:blue
+}
+.psi{
+	color:#00ff80;
+	width:50%;
+	border:2px ridge #80dfff;
+	float:left;
+	box-sizing:border-box;
+	background:url("https://i.ytimg.com/vi/MnEowkdFBLM/maxresdefault.jpg");
+	background-size: 100% 100%;
+	height:500px
+}
+h2{ text-align:center
+}
+.psj{
+	color:#00ff80;
+	width:50%;
+	border:2px ridge #80dfff;
+	float:right;
+	box-sizing:border-box;
+	background:url("https://i.ytimg.com/vi/xj5rKJGKtxM/maxresdefault.jpg");
+	background-size: 100% 100%;
+	height: 500px
+}
+.clear{
+	clear:both;
+}
+.SZ{
+	width:50%;
+	Border:2px ridge #ffffff;
+	float:right;
+	box-sizing:border-box;
+	background-size: 80px 71px;
+	height: 500px
+}
+.SZT{
+	width:50%;
+	Border:2px ridge #ffffff;
+	float:right;
+	box-sizing:border-box;
+	background-size: 80px 71px;
+	height: 500px
+}
+.elements{
+	/* create elements topics */
+}
+.Container{
+	Width:100%;
+	Display:inline-block;
+}
+.CIR{
+	width:30%;
+	Border:2px ridge #00000000;
+	float: right;
+	box-sizing:border-box;
+	background-size: ;
+	height: 100%;
+	Display:inline-block;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.CI{
+	
+	width:30%;
+	Border:2px ridge #00000000;
+	float: left; 
+	box-sizing:border-box;
+	background-size: ;
+	height: 100%;
+	Display:inline-block;
+	padding: 0;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.CIC{
+	width:40%;
+	Border:2px ridge #00000000;
+	float: left; 
+	box-sizing:border-box;
+	background-size: ;
+	height: 97%;
+	Display:inline-block;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.CIR img, .CI img{
+	height: 148px;
+	width: 100%;
+}
+.CIC img{
+	Height: 97%;
+	width: 100%;
+}
+ul.Remove {
+	list-style-type: none;
+    margin: 0;
+    padding-right: 0px;
+	padding-left: 0px;
+	width:100%;
+}
+.TBH ul li {
+	display: inline;
+	list-style-type: none;
+    margin: 0px 0px;
+    padding-right: 0px;
+	padding-left: 0px;
+/*(Check)border: 2px solid blue */
+}
+.TBH ul {
+	margin: 0px ;
+	padding: 0px ;
+/*(Check)border: 2px solid red ;
+	display: inline-block ; */
+	
+}
+.ONET {
+	background:url("");
+	background-repeat: no-repeat;
+	Display: inline-block;
+	background-size: 100% 100% ;
+}
+.OTI {
+	border: 2px solid white;
+	Width: 20% ;
+	Height: 100% ;
+	float: right ;
+	margin: 30px ;
+}
+.btn {
+	color: #ffffff ;
+	cursor: pointer ;
+	display: Block ;
+	margin: 0 auto 2em ;
+	max-width: 160px ;
+	text-decoration: none ;
+	text-transform: uppercase ;
+	vertical-align: middle ;
+	width: 100% ;
+	position: relative ;
+	
+	
+	background: #E1332D ;
+	transition: all 150ms liner ;
+	
+}
+.btn:hover{
+	background-color: #324b ;
+
+
+}
+
+
+
+/* END */
+/* Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+
+Stongesst: 
+<html>
+		<head>
+			<link rel="stylesheet" type="text/css" href="Style/Style.css"> 
+			
+</head>
+	
+		<body>
+			<img "">
+		<h4>
+		
+		
+</h4>		
+</body>
+	
+	
+	
+	
+</html>
+
+Tailed B:
+
+<html>
+		<head>
+			<link rel="stylesheet" type="text/css" href="Style/Style.css"> 	
+		</head>
+	
+		<body class="TB">
+			<div class="Container">
+				
+			
+			<div class="CI">
+				<ul class="Remove">
+					    <li><a href="./Tailed Beasts/OneT.html"><img src="https://s-media-cache-ak0.pinimg.com/originals/a0/2e/14/a02e1471962ab5e16ff21e0a2af19992.jpg"></li>
+						<li><a href="./Tailed Beasts/ThreeT.html"><img src="http://i1025.photobucket.com/albums/y316/vbsuper/Bijuus/3Caudas.jpg"></li>
+						<li><a href="./Tailed Beasts/FiveT.html"><img src="https://s-media-cache-ak0.pinimg.com/736x/63/63/2d/63632d308d7d6da1f728569fc2dad656.jpg"></li>
+						<li><a href="./Tailed Beasts/SevenT.html"><img src="https://s-media-cache-ak0.pinimg.com/originals/04/d0/b2/04d0b261133f519219ad57f7838f251d.jpg"></li>
+						<li><a href="./Tailed Beasts/NineT.html"><img src="http://orig13.deviantart.net/6efb/f/2013/128/0/d/9_tails_kyuubi_by_gamegm-d64jzh4.jpg"></li>
+				</ul>
+			</div>
+
+			<div class="CIC">
+				<a href="./Tailed Beasts/hosts.html"><img src="http://otakukart-uk6cvjdsghrm8nn2rpl5.stackpathdns.com/wp-content/uploads/2016/04/bijuu-Naruto-Wallpaper.jpg">
+			</div>
+
+			<div class="CIR">
+				<ul class="Remove">
+					<li><a href="./Tailed Beasts/TwoT.html"><img src="https://s-media-cache-ak0.pinimg.com/originals/7a/a3/75/7aa37564d99d6f4bfafe1341500565f6.jpg"></li>
+					<li><a href="./Tailed Beasts/FourT.html"><img src="http://orig14.deviantart.net/78c3/f/2013/128/b/b/4_tails_yonbi_by_gamegm-d64jz19.jpg"></li>
+					<li><a href="./Tailed Beasts/SixT.html"><img src="https://s-media-cache-ak0.pinimg.com/736x/75/49/8f/75498f667b228f695c57e20800072252.jpg"></li>
+					<li><a href="./Tailed Beasts/EightT.html"><img src="https://s-media-cache-ak0.pinimg.com/736x/37/55/77/375577316b969cea64d3b0cfce4c9acf.jpg"></li>
+					<li><a href="./Tailed Beasts/TenT.html"><img src="https://i.ytimg.com/vi/wEH1jfSHl5Q/maxresdefault.jpg"></li>
+				</ul>
+			</div>
+		
+			</div>
+		<h4>
+		
+</h4>		
+</body>
+			
+</html> 
+
+TB:
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="./Style/Style.css"> 
+		<div class="TBH">
+			<ul class="TBH" style="display: inline; list-style: none;">
+				<li><a href="/index.html"><img src="https://dailyanimeart.files.wordpress.com/2014/04/naruto-sasuke-hagoromo-indra-and-ashura1.jpg" width="14%"  height="14%"></li>
+				<li><a href="./Tailed Beasts/OneT.html"><img src="/pic.jpg/1t.jpg" height="14%"></li>
+				<li><a href="./Tailed Beasts/TwoT.html"><img src="/pic.jpg/2t.jpg" height="14%"></li>
+				<li><a href="./Tailed Beasts/ThreeT.html"><img src="/pic.jpg/3t.jpg" height="14%"></li>
+				<li><a href="./Tailed Beasts/FourT.html"><img src="/pic.jpg/4t.jpg" height="14%"></li>
+				<li><a href="./Tailed Beasts/FiveT.html"><img src="/pic.jpg/5t.jpg" height="14%"></li>
+				<li><a href="./Tailed Beasts/SixT.html"><img src="/pic.jpg/6t.jpg" height="14%"></li>
+				<li><a href="./Tailed Beasts/SevenT.html"><img src="/pic.jpg/7t.jpg" height="14%"></li>
+				<li><a href="./Tailed Beasts/EightT.html"><img src="/pic.jpg/8t.jpg" height="14%"></li>
+				<li><a href="./Tailed Beasts/NineT.html"><img src="/pic.jpg/9t.jpg" height="14%"></li>
+				<li><a href="./Tailed Beasts/TenT.html"><img src="/pic.jpg/10t.jpg" height="14%" width="6%"></li>
+				<li><a href="./TailedBeasts.html"><img src="https://i.ytimg.com/vi/xj5rKJGKtxM/maxresdefault.jpg" width="13%"  height="14%"></li>	
+			</ul>
+		</div>
+	</head>
+	
+	<body class="ONET">
+		<div class="OTI">
+			
+		</div>
+		
+		
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
