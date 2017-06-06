@@ -37,6 +37,11 @@ body.AboutB{
 	background-repeat: no-repeat ;
 	background-size: 100% 100% ;
 }
+body.gravity{
+	background:url("https://www.geek.com/wp-content/uploads/2014/06/spacetime-2.jpg") ;
+	background-repeat: no-repeat ;
+	background-size: 100% 100% ;
+}
 
 ul {
 	list-style: none ;
@@ -75,7 +80,7 @@ ul {
 
 .bx {
 	width:180px;
-	border:2px ridge #324b;
+	border:2px ridge white;
 	float:left;
 	box-sizing:border-box;
 	background-size: 100% 100%;
@@ -88,8 +93,6 @@ ul {
 .vid{
 	position: relative ;
 	float: left ;
-	
-	
 }
 .btnb {
 	color: #ffffff ;
@@ -129,7 +132,7 @@ ul {
 
 .bxb {
 	width:180px;
-	border:2px ridge #324b;
+	border:2px ridge white;
 	float:right;
 	box-sizing:border-box;
 	background-size: 100% 100%;
@@ -144,6 +147,64 @@ ul {
 	box-sizing:border-box;
 	background-image:url("http://orig09.deviantart.net/8ff4/f/2007/084/e/5/space_banner_by_halochick4ever.jpg") ;
 	height:110x;
-	color: #3f66ff ;
-	
+	color: #FFC500 ;
+	position: relative ;
+}
+.header2{
+	width:100% ;
+	border:2px ridge white;
+	box-sizing:border-box;
+	background-image:url("http://wallpapercave.com/wp/axfU4p2.jpg") ;
+	height:110x;
+	color: white ;
+	position: relative ;
+	background-size: 100% 100% ;
+}
+.headerSol{
+	width:100% ;
+	border:2px ridge white;
+	box-sizing:border-box;
+	background-image:url("https://assets.weforum.org/article/image/large_O7lehD5dZq_R6dvj9dsMonbE1CCs1mhbB3MhHYmzIRI.jpg") ;
+	height:110x;
+	color: black ;
+	position: relative ;
+	background-repeat: no-repeat ;
+	background-size: 100% 100% ;
+}
+.aboutp{
+	border: 2px ridge white ;
+	box-sizing: border-box ;
+	color: #FFC500 ;
+	position: absolute ;
+	text-align: center ;
+	display: inline-block ;
+	max-width: 1250px ;
+	margin: 14px ;
+}
+.gravp{
+	border: 2px ridge white ;
+	box-sizing: border-box ;
+	color: white ;
+	position: absolute ;
+	text-align: left ;
+	display: inline-block ;
+	max-width: 1250px ;
+	margin: 35px ;
+}
+.solinfo{
+	border: 2px ridge white ;
+	box-sizing: border-box ;
+	color: #19FF9E ;
+	position: absolute ;
+	text-align: center ;
+	display: inline-block ;
+	max-width: 1300px ;
+	margin: 20px ;
+}
+.Visualization{
+	float:right ;
+	position: relative ;
+	margin: 0 15px 5px 0;
+	border: 2px ridge white ;
+	box-sizing: border-box ;
 }
