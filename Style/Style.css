@@ -1,46 +1,38 @@
-
+/* Page Backgrounds */
+body.homepage, body.sol, body.rocketry, body.human, body.space, body.earth, body.AboutB, body.gravity {
+	background-repeat: no-repeat;
+	background-size: 100% 100% ;
+	width: 99% ;
+	max-width: 100% ;
+}
 
 body.homepage {
 	background:url("https://s3.amazonaws.com/user-media.venngage.com/981469-e2b6629f26488238c53dc52ecea2a642.jpg");
-	background-repeat: no-repeat;
 	Display: inline-block;
-	background-size: 100% 100% ;
 }
 body.sol{
 	background:url("https://i.ytimg.com/vi/JR0attPUJtw/maxresdefault.jpg");
-	background-repeat: no-repeat ;
-	background-size: 100% 100% ;
 }
 body.rocketry{
 	background:url("http://www.hotszots.eu/_galler/IMG/SPACE/nasa_rocket-1920x1080.jpg");
-	display: inline-block ;
-	background-repeat: no-repeat ;
-	background-size: 100% 100% ;
 }
 body.human{
 	background:url("https://s3.amazonaws.com/kajabi-neo-production/courses/5341/lessons/54614/custom_thumbnails/45b94a4b-582b-454a-b897-83137114663c_medium.jpg") ;
-	background-repeat: no-repeat ;
-	background-size: 100% 100% ;
 }
 body.space{
 	background:url("https://www.nasa.gov/sites/default/files/thumbnails/image/p1639ay-goodss-160930.jpg") ;
-	background-repeat: no-repeat ;
-	background-size: 100% 100% ;
 }
 body.earth{
 	background:url("")
-	background-repeat: no-repeat ;
-	background-size: 100% 100% ;
 }
 body.AboutB{
 	background:url("http://wallpapershome.com/images/pages/pic_hs/10121.jpg") ;
-	background-repeat: no-repeat ;
-	background-size: 100% 100% ;
 }
 body.gravity{
 	background:url("https://www.geek.com/wp-content/uploads/2014/06/spacetime-2.jpg") ;
-	background-repeat: no-repeat ;
-	background-size: 100% 100% ;
+}
+p {
+	 text-indent: 50px ;
 }
 
 ul {
@@ -190,6 +182,7 @@ ul {
 	display: inline-block ;
 	max-width: 1250px ;
 	margin: 35px ;
+	background-color: rgba(0, 0, 0, 0.6) ;
 }
 .solinfo{
 	border: 2px ridge white ;
