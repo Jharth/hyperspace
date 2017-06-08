@@ -23,10 +23,10 @@ body.space{
 	background:url("https://www.nasa.gov/sites/default/files/thumbnails/image/p1639ay-goodss-160930.jpg") ;
 }
 body.earth{
-	background:url("")
+	background:url("http://cdn-image.travelandleisure.com/sites/default/files/styles/964x524/public/1479851209/sunrise-2014-EARTH1116.jpg?itok=GkwMVkpa")
 }
 body.AboutB{
-	background:url("http://wallpapershome.com/images/pages/pic_hs/10121.jpg") ;
+	background:url("http://www.hdwallpapers.in/walls/earth_from_space_4k-wide.jpg") ;
 }
 body.gravity{
 	background:url("https://www.geek.com/wp-content/uploads/2014/06/spacetime-2.jpg") ;
@@ -85,6 +85,7 @@ ul {
 .vid{
 	position: relative ;
 	float: left ;
+	margin: 17px ;
 }
 .btnb {
 	color: #ffffff ;
